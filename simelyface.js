@@ -1,5 +1,5 @@
 function replaceSmiley(str) {
-    let result = str.replaceAll(':)', '😊');
+    let result = str.replaceAll(':)', );
     console.log(result);
     return result;
 }
