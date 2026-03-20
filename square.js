@@ -4,4 +4,4 @@ function square(n) {
     return result;
 }
 
-square(5); // Output: 25
+square(5); 
